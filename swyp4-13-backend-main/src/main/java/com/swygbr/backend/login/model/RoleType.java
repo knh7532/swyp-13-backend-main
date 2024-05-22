@@ -1,4 +1,4 @@
-package com.swygbr.backend.model;
+package com.swygbr.backend.login.model;
 
 public enum RoleType {
     ROLE_USER, ROLE_ADMIN
